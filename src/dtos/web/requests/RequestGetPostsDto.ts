@@ -1,0 +1,3 @@
+class RequestGetPostsDto {
+    count : number;
+}
